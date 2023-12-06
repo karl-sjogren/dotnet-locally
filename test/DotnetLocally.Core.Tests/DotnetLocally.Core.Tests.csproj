@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="Spectre.Console.Testing" Version="0.48.0" />
+  </ItemGroup>
+
+</Project>
